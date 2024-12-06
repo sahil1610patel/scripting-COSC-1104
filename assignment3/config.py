@@ -20,5 +20,5 @@ FORECAST_DAYS = 30  # The number of days to forecast for budget estimation
 COST_THRESHOLD = 100.00  # The spending threshold to trigger an alert (USD)
 
 # EC2 Instance Configuration
-InstanceId = 'your_instace_id'
+InstanceId = 'your_instance_id'
 
